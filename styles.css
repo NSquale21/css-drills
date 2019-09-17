@@ -14,5 +14,29 @@ a {
 
 a:hover {
 	font-weight: bold;
-	color: blue;
+	color: white;
+}
+
+.boxes {
+	margin: 1em;
+	padding: 1em;
+	border: 1px solid black;
+	border-radius: 10px;
+	width: 30em;
+}
+
+#box1 {
+	background-color: pink;
+}
+
+#box2 {
+	background-color: lightskyblue;
+}
+
+#box3 {
+	background-color: lightcoral;
+}
+
+#box4 {
+	background-color: lightseagreen;
 }
