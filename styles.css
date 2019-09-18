@@ -25,6 +25,15 @@ a:hover {
 	width: 30em;
 }
 
+.show-image {
+	height: 50px;
+	width: 50px;
+	border-radius: 50px;
+	background-color: white;
+	position: absolute;
+	left: 7em;
+}
+
 #box1 {
 	background-color: pink;
 }
