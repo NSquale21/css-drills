@@ -3,6 +3,10 @@ body {
 	background-color: #dcdfe3;
 }
 
+h1 {
+	color: purple;
+}
+
 h2, p, .readme-wrapper {
 	text-align: center;
 }
@@ -15,6 +19,10 @@ a {
 a:hover {
 	font-weight: bold;
 	color: white;
+}
+
+ul {
+	color: red;
 }
 
 .boxes {
@@ -34,6 +42,18 @@ a:hover {
 	left: 7em;
 }
 
+.original {
+	color: blue;
+}
+
+.list-style {
+	border: 2px solid;
+}
+
+.star {
+	color: green;
+}
+
 #box1 {
 	background-color: pink;
 }
@@ -49,3 +69,28 @@ a:hover {
 #box4 {
 	background-color: lightseagreen;
 }
+
+#show1 {
+	color: black;
+}
+
+#show2 {
+	color: green;
+}
+
+#show3 {
+	color: slateblue;
+}
+
+#show4 {
+	color: magenta;
+}
+
+#show5 {
+	color: blue;
+}
+
+#wars {
+	color: royalblue;
+}
+
